@@ -13,9 +13,11 @@
 </p>
 
 <div align = "center" style="display: flex;">
-  <img src="https://skillicons.dev/icons?i=git,vscode,sqlite,windows,ubuntu,bash,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,opencv,sqlite,qt" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,qt,opencv,python" />
+  <img src="https://skillicons.dev/icons?i=git,windows,ubuntu,bash" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
 </div>
 
 <br>
