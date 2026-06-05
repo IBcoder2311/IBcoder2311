@@ -8,8 +8,6 @@
 
 <br>
 
-<p align='center'><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IBcoder2311&theme=dark" alt="GitHub Streak" /></a></p>
-
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=IBcoder2311&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
