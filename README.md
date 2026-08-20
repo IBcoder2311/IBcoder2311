@@ -12,19 +12,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=IBcoder2311&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
-
-
-<div align = "center" style="display: flex;">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,opencv,sqlite,qt" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,windows,ubuntu,bash" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
-</div>
-
-<br>
-
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IBcoder2311/IBcoder2311/refs/heads/output/github-contribution-grid-snake-dark.svg" />
@@ -32,5 +19,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/IBcoder2311/IBcoder2311/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-
