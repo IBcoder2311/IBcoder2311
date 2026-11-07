@@ -1,7 +1,7 @@
-<div align = "center" style="display: flex;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 16px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" style="width: 71px; height: 71px; margin-right: 0px; margin-bottom: 0px;" />
+<div align="center">
+  <img src="https://techstack-generator-tsg.vercel.app/python-icon.svg" width="71" alt="Python">
+  <img src="https://techstack-generator-tsg.vercel.app/github-icon.svg" width="71" alt="GitHub">
 </div>
-
 
 <br>
 
